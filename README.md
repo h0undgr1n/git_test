@@ -1,2 +1,4 @@
 # git_test
-Hello Odin!s
+Hello Odin!
+
+Please note that  this project is connected to github.
